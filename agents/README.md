@@ -1,6 +1,6 @@
 # Agent roster
 
-The definitions live in `.claude/agents/`. Each file names the model that runs the agent.
+The definitions live in `agents/definitions/`. Each file names the model that runs the agent. To use them in Claude Code, copy them to `.claude/agents/` (Windows: `copy agents\definitions\*.md .claude\agents\`; macOS/Linux: `cp agents/definitions/*.md .claude/agents/`).
 
 | Agent | File | Model | Why this model |
 | --- | --- | --- | --- |
