@@ -1,0 +1,72 @@
+{
+ "t_run_s": 1.0,
+ "n_trials": 2,
+ "conditions": {
+  "no_input": [
+   {
+    "seed": 2000,
+    "mn9_rate_hz": {
+     "MN9_left": 0.0,
+     "MN9_right": 0.0
+    },
+    "active_neurons": 0,
+    "total_spikes": 0,
+    "wall_s": 5.6
+   },
+   {
+    "seed": 2001,
+    "mn9_rate_hz": {
+     "MN9_left": 0.0,
+     "MN9_right": 0.0
+    },
+    "active_neurons": 0,
+    "total_spikes": 0,
+    "wall_s": 5.8
+   }
+  ],
+  "sugar_200Hz": [
+   {
+    "seed": 2000,
+    "mn9_rate_hz": {
+     "MN9_left": 91.0,
+     "MN9_right": 65.0
+    },
+    "active_neurons": 414,
+    "total_spikes": 16836,
+    "wall_s": 6.6
+   },
+   {
+    "seed": 2001,
+    "mn9_rate_hz": {
+     "MN9_left": 83.0,
+     "MN9_right": 66.0
+    },
+    "active_neurons": 413,
+    "total_spikes": 17479,
+    "wall_s": 7.1
+   }
+  ],
+  "sugar_200Hz_plus_bitter_200Hz": [
+   {
+    "seed": 2000,
+    "mn9_rate_hz": {
+     "MN9_left": 1.0,
+     "MN9_right": 0.0
+    },
+    "active_neurons": 315,
+    "total_spikes": 20816,
+    "wall_s": 10.7
+   },
+   {
+    "seed": 2001,
+    "mn9_rate_hz": {
+     "MN9_left": 1.0,
+     "MN9_right": 1.0
+    },
+    "active_neurons": 347,
+    "total_spikes": 21507,
+    "wall_s": 8.8
+   }
+  ]
+ }
+}

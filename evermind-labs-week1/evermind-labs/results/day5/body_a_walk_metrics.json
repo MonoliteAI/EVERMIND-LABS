@@ -1,0 +1,28 @@
+{
+ "params": {
+  "freq_hz": 8.0,
+  "coxa_amp": 0.3,
+  "lift_amp": 0.4,
+  "tibia_amp": 0.4,
+  "coxa_sign": 1.0,
+  "right_sign": 1.0,
+  "lift_sign": -1.0,
+  "adhesion": true,
+  "ramp_s": 0.3
+ },
+ "duration_s": 6.0,
+ "speed_mm_s": 3.028672531640649,
+ "lateral_mm_s": 0.01860919469607014,
+ "z_mean_mm": 1.000110343077887,
+ "z_std_mm": 0.0641951103646115,
+ "stance_fraction_per_leg": {
+  "lf": 0.424,
+  "lm": 0.452,
+  "lh": 0.596,
+  "rf": 0.374,
+  "rm": 0.466,
+  "rh": 0.584
+ },
+ "tripod_alternation_fraction": 0.936,
+ "finite": true
+}

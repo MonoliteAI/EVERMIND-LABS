@@ -1,0 +1,5 @@
+# Frozen brain model: https://github.com/eonsystemspbc/fly-brain at commit a3db62f9436074e485c0278290c2164ed6150808
+# Verify from the root of that checkout with: sha256sum -c <this file>
+efeb23fb99098e9c390f6869969b2a121a2ee92c833cfc45ecb2c1d8e1af0347  data/2025_Connectivity_783.parquet
+52b0ac6094cd32c546f8d4c341e094376f48f4e791f8db9b166de5dff8199ea4  data/2025_Completeness_783.csv
+6e2cb5aab4ddf08cde2ca05cc49e87dd252c0358afe0dad17314211837b1f539  code/paper-phil-drosophila/model.py

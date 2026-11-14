@@ -1,0 +1,8 @@
+# Unpinned on purpose. On day 1 the data-infra-engineer resolves these, tests them together,
+# and commits the exact versions as requirements.txt. Do not install from this file in experiments.
+brian2
+flygym
+mujoco
+numpy
+pandas
+pytest

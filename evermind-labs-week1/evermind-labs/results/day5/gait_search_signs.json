@@ -1,0 +1,210 @@
+[
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   2.1523076540316692,
+   0.018531401762686906,
+   1.3329225240558533
+  ],
+  "head_dir_xy": [
+   0.9979557299567628,
+   0.06390843312869841
+  ],
+  "z": 1.3329225240558533,
+  "finite": true,
+  "forward_mm": 2.1490920688210338,
+  "wall_s": 3.3
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   4.138915669500568,
+   0.05089642962807689,
+   1.1896329788431517
+  ],
+  "head_dir_xy": [
+   0.999748506477577,
+   -0.022424395172643694
+  ],
+  "z": 1.1896329788431517,
+  "finite": true,
+  "forward_mm": 4.136733437368976,
+  "wall_s": 3.0
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": 1,
+   "right_sign": -1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   -2.101867821698418,
+   0.32408630345987577,
+   1.3502759639628659
+  ],
+  "head_dir_xy": [
+   -0.5103269620062196,
+   -0.8599804190159946
+  ],
+  "z": 1.3502759639628659,
+  "finite": true,
+  "forward_mm": 0.7939319449392156,
+  "wall_s": 3.3
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": 1,
+   "right_sign": -1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   -0.12150031467752453,
+   -1.4768194399098864,
+   1.0167775914173522
+  ],
+  "head_dir_xy": [
+   -0.6499125950876513,
+   -0.7600089130587818
+  ],
+  "z": 1.0167775914173522,
+  "finite": true,
+  "forward_mm": 1.201360522126028,
+  "wall_s": 3.2
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   5.428672454815405,
+   -1.5948468447751318,
+   1.5687085341665545
+  ],
+  "head_dir_xy": [
+   0.9875913227793074,
+   -0.15704556314091228
+  ],
+  "z": 1.5687085341665545,
+  "finite": true,
+  "forward_mm": 5.611773431447952,
+  "wall_s": 2.8
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   -1.1494789475058713,
+   -0.007403794743307215,
+   1.0173726591205186
+  ],
+  "head_dir_xy": [
+   0.9999887296246301,
+   0.004740276479876323
+  ],
+  "z": 1.0173726591205186,
+  "finite": true,
+  "forward_mm": -1.1495010884807368,
+  "wall_s": 4.0
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": -1,
+   "right_sign": -1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   -2.3339197481607727,
+   -0.38831572442051354,
+   1.2009955544602078
+  ],
+  "head_dir_xy": [
+   -0.615047775635281,
+   0.7884897974166649
+  ],
+  "z": 1.2009955544602078,
+  "finite": true,
+  "forward_mm": 1.1292891627355022,
+  "wall_s": 3.0
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.4,
+   "lift_amp": 0.5,
+   "tibia_amp": 0.5,
+   "coxa_sign": -1,
+   "right_sign": -1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "final_thorax": [
+   -0.4329545437877482,
+   1.6080420139955645,
+   0.8639405963996
+  ],
+  "head_dir_xy": [
+   -0.6867383128003425,
+   0.7269046826183554
+  ],
+  "z": 0.8639405963996,
+  "finite": true,
+  "forward_mm": 1.466219742740467,
+  "wall_s": 2.9
+ }
+]
