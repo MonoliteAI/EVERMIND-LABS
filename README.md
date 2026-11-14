@@ -42,4 +42,4 @@ One person decides; nine AI agents prepare the work. See `CLAUDE.md` for the rul
 
 ## Licence
 
-To be chosen by the founder before the first code commit.
+Apache-2.0, see LICENSE.

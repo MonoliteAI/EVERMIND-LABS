@@ -29,7 +29,7 @@ Nothing may be described as peer-reviewed until one has.
 
 ## Structure
 
-- `.claude/agents/` : the nine agent definitions, each with its model
+- `agents/definitions/` : the nine agent definitions, each with its model (to use them in Claude Code, copy them to `.claude/agents/`)
 - `agents/README.md` : roster and how the agents work together
 - `LOG.md` : decision and work log
 - `WEEK1.md` : plan for the first week
