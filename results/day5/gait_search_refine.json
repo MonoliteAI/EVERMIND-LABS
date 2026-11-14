@@ -1,0 +1,477 @@
+[
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0,
+   "lift_amp": 0,
+   "tibia_amp": 0,
+   "coxa_sign": 1.0,
+   "right_sign": 1.0,
+   "lift_sign": 1.0,
+   "adhesion": false,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 3.581201258029568e-08,
+  "lateral_mm_s": -4.278807237844951e-09,
+  "z_mean": 1.1146953146443341,
+  "z_std": 3.9069432630702376e-08,
+  "finite": true,
+  "label": "standing baseline"
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.143011859920436,
+  "lateral_mm_s": -0.13531332387129605,
+  "z_mean": 1.6294627958676953,
+  "z_std": 0.1200183160685553,
+  "finite": true,
+  "wall_s": 5.3
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 0.013162312167374403,
+  "lateral_mm_s": 0.0768381979894974,
+  "z_mean": 0.47962709093829897,
+  "z_std": 0.0026835555798586344,
+  "finite": true,
+  "wall_s": 4.2
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.8664805580732597,
+  "lateral_mm_s": -0.19269577281112887,
+  "z_mean": 1.6841998314326299,
+  "z_std": 0.10201897196147293,
+  "finite": true,
+  "wall_s": 5.8
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 0.005405900587276389,
+  "lateral_mm_s": -0.0011246896801065146,
+  "z_mean": 0.49958258991584925,
+  "z_std": 1.009981154416328e-05,
+  "finite": true,
+  "wall_s": 4.7
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 1.7915391577368445,
+  "lateral_mm_s": -0.006944818296575832,
+  "z_mean": 1.6061860068035534,
+  "z_std": 0.10750484530636434,
+  "finite": true,
+  "wall_s": 5.3
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 0.9405731603625153,
+  "lateral_mm_s": 1.4386529467988474,
+  "z_mean": 0.6791442246263897,
+  "z_std": 0.44143539399278914,
+  "finite": true,
+  "wall_s": 5.3
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.0097536697649723,
+  "lateral_mm_s": -0.8981900324846885,
+  "z_mean": 1.6844465762695198,
+  "z_std": 0.09837450744165305,
+  "finite": true,
+  "wall_s": 5.8
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 0.004996689742213116,
+  "lateral_mm_s": 0.12267376870303108,
+  "z_mean": 0.48123276519740565,
+  "z_std": 0.013177510836581089,
+  "finite": true,
+  "wall_s": 4.8
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 1.5666917881675386,
+  "lateral_mm_s": -0.30393691401212997,
+  "z_mean": 1.5905376067367267,
+  "z_std": 0.09946077772291498,
+  "finite": true,
+  "wall_s": 5.0
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 0.002104772028508717,
+  "lateral_mm_s": 0.001023851013317196,
+  "z_mean": 0.4995834182993195,
+  "z_std": 1.8721429055560323e-05,
+  "finite": true,
+  "wall_s": 4.4
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.2936993067617117,
+  "lateral_mm_s": 0.3111484532356621,
+  "z_mean": 1.6839343051171012,
+  "z_std": 0.09461465103580603,
+  "finite": true,
+  "wall_s": 5.7
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": -1,
+   "right_sign": 1,
+   "lift_sign": 1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": -0.0003890002005985775,
+  "lateral_mm_s": -0.141832462634288,
+  "z_mean": 0.4795610261833384,
+  "z_std": 0.010536326474873098,
+  "finite": true,
+  "wall_s": 4.1
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 1.8603973770277449,
+  "lateral_mm_s": 0.031033414016697757,
+  "z_mean": 1.01809956395338,
+  "z_std": 0.08191491411748561,
+  "finite": true,
+  "wall_s": 5.5
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 1.7767285271484334,
+  "lateral_mm_s": 0.005998375999665185,
+  "z_mean": 0.9751643053230462,
+  "z_std": 0.07408507042761994,
+  "finite": true,
+  "wall_s": 5.1
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.3802980641080667,
+  "lateral_mm_s": 0.0912111483888171,
+  "z_mean": 1.3080601718602778,
+  "z_std": 0.09255546970120695,
+  "finite": true,
+  "wall_s": 5.5
+ },
+ {
+  "params": {
+   "freq_hz": 4.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.1457241837634644,
+  "lateral_mm_s": 0.2515537002940174,
+  "z_mean": 1.4273816572789433,
+  "z_std": 0.11076469187026167,
+  "finite": true,
+  "wall_s": 5.7
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.498435343879009,
+  "lateral_mm_s": 0.016632786803256226,
+  "z_mean": 1.007943220425353,
+  "z_std": 0.07270145846930957,
+  "finite": true,
+  "wall_s": 5.4
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.5334377708340035,
+  "lateral_mm_s": 0.023131651523877226,
+  "z_mean": 0.9761381384122171,
+  "z_std": 0.0674085794856454,
+  "finite": true,
+  "wall_s": 5.2
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.7239959361103216,
+  "lateral_mm_s": 0.08926459711480675,
+  "z_mean": 1.305819149023338,
+  "z_std": 0.07841045326708787,
+  "finite": true,
+  "wall_s": 6.1
+ },
+ {
+  "params": {
+   "freq_hz": 6.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 1.0972749066199694,
+  "lateral_mm_s": 0.14165023599423496,
+  "z_mean": 1.4275089366913334,
+  "z_std": 0.11630799706988527,
+  "finite": true,
+  "wall_s": 6.9
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 3.031786602610728,
+  "lateral_mm_s": 0.029213701443244654,
+  "z_mean": 1.000118381973853,
+  "z_std": 0.06422727929034867,
+  "finite": true,
+  "wall_s": 5.2
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.3,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 3.065697282642728,
+  "lateral_mm_s": 0.054372145012427514,
+  "z_mean": 0.9780025439954866,
+  "z_std": 0.060789917278968035,
+  "finite": true,
+  "wall_s": 6.1
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.4,
+   "tibia_amp": 0.4,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 2.611591089844959,
+  "lateral_mm_s": -0.0017929222950178985,
+  "z_mean": 1.2978765801745644,
+  "z_std": 0.06975568502161242,
+  "finite": true,
+  "wall_s": 6.6
+ },
+ {
+  "params": {
+   "freq_hz": 8.0,
+   "coxa_amp": 0.5,
+   "lift_amp": 0.7,
+   "tibia_amp": 0.7,
+   "coxa_sign": 1,
+   "right_sign": 1,
+   "lift_sign": -1,
+   "adhesion": true,
+   "ramp_s": 0.3
+  },
+  "speed_mm_s": 0.8346983209837557,
+  "lateral_mm_s": 0.2112444799157979,
+  "z_mean": 1.3841790717339957,
+  "z_std": 0.12989781600722963,
+  "finite": true,
+  "wall_s": 5.9
+ }
+]
